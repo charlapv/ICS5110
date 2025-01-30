@@ -18,8 +18,17 @@ A web-based application for predicting population trends using various Machine L
 
 ---
 
-## 🔧 **Installation & Usage**
-To run locally:
+## 🔧 **How to Use**  
+1. **Select a model** (Linear, Polynomial, Random Forests, or KNN).  
+2. **Upload the `population_dataset.csv` file**.  
+3. **Click Predict** to see the result.  
+4. **View the visualization** of the prediction.  
+
+---
+
+## ⚙ **Installation (Optional: Run Locally)**  
+To run the application locally, follow these steps:  
+
 ```bash
 git clone https://github.com/charlapv/ICS5110.git  
 cd ICS5110  
